@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.d968472f.css",
+    "main.js": "/static/js/main.c9975d71.js",
+    "static/media/BodypartImage.png": "/static/media/BodypartImage.f683b0047bf14afd5229.png",
+    "static/media/Icon.jpg": "/static/media/Icon.50fdcee186a6eec5f19c.jpg",
+    "static/media/second.jpg": "/static/media/second.bf0b29393b3f0b96c37a.jpg",
+    "static/media/EquipmentImage.png": "/static/media/EquipmentImage.4843b72aa535a3efd15b.png",
+    "static/media/Logo.jpg": "/static/media/Logo.d24b4694e6ee3345fba2.jpg",
+    "index.html": "/index.html",
+    "main.d968472f.css.map": "/static/css/main.d968472f.css.map",
+    "main.c9975d71.js.map": "/static/js/main.c9975d71.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d968472f.css",
+    "static/js/main.c9975d71.js"
+  ]
+}
